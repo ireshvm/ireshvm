@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @ireshvm
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Reactjs
-- 💞️ I’m looking to collaborate on freelance projects
+- 👋 Hi, I’m @Avinash Toshniwal
+- 
+- 💞️ I’m looking to collaborate on freelance projects and looking for Full time job opportunity.
 - 📫 How to reach me mail:- iresh.vm@gmail.com
 
 <!---
